@@ -79,6 +79,16 @@
   cursor: pointer;
 }
 
+.myDiv{
+  background: linear-gradient(
+    rgba(18, 108, 172, 0.7),
+    rgba(18, 95, 172, 0.5)
+  );
+  height: 100vh;
+  width: 100vw;
+  
+}
+
 img {
   width: 100%;
   display: flex;
@@ -115,6 +125,7 @@ header {
   font-size: 1.5rem;
   font-weight: 600;
   color: var(--white);
+  text-decoration: underline;
 }
 
 .nav__logo span {
