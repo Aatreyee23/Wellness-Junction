@@ -25,13 +25,13 @@
                 Resources
             </li>
         </a>
-        <a href="#">
+        <a href="community/community.php">
             <li class="link">
                 <i class="ri-community-line"></i> 
                 Community
             </li>
         </a>
-        <a href="#">
+        <a href="events/events_workshops.php">
             <li class="link">
                 <i class="ri-calendar-event-line"></i> 
                 Events & Workshops

@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Articles on Mental Wellness</title>
+    <link rel="icon" href="logo-image.png" type="image/png" />
+    <title>Wellness Junction | Where Community Nurtures Wellness</title>
+  
     <link rel="stylesheet" href="resource_styles.css">
 </head>
 <body>
